@@ -11,16 +11,16 @@ Customization
 Contributing
 License
 
-#Introduction
+# Introduction
 This project is a dashboard designed with React and TypeScript, utilizing the Shopify Polaris component library for a consistent and responsive user interface. The dashboard displays user performance metrics, order status, shipment updates, and additional custom functionality for tracking pages and orders.
 
-#Features
+# Features
 Polaris UI: Pre-built components from Shopify's Polaris library.
 Performance Metrics: Displays shipment updates, stats, and tracking page views.
 Responsive Design: The layout is automatically responsive using Polaris’ built-in features.
 Custom HTML Integration: Placeholder for custom integrations in the future.
 
-#Installation
+# Installation
 Follow these steps to set up the project locally:
 
 Prerequisites
@@ -49,7 +49,7 @@ npm start
 yarn start
 This will open the app in your default browser at http://localhost:3000.
 
-#Usage
+# Usage
 Dashboard Layout
 Welcome Section: Displays user greeting and basic order/sync information with action buttons.
 Performance Metrics: Shows shipment updates and tracking page stats in a card layout with data visualization (placeholder for charts).
@@ -67,7 +67,7 @@ src/
 ├── App.tsx                  # Main app component
 For styles, Polaris handles most UI design. If additional styles are required, you can create custom CSS modules and link them in the respective components.
 
-#Project Structure
+# Project Structure
 bash
 Copy code
 src/
@@ -80,12 +80,12 @@ src/
 ├── README.md               # Project documentation
 ├── package.json            # Project dependencies and scripts
 
-#Customization
+# Customization
 Polaris Components: You can find all available Polaris components and their usage in the Polaris Documentation.
 State Management: For global state management, you can integrate libraries like Redux or React Context.
 Data Fetching: Use axios or fetch to retrieve data from APIs and render it in the dashboard.
 
-#Contributing
+# Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 Fork the project
@@ -94,5 +94,5 @@ Commit your changes (git commit -m 'Add some feature')
 Push to the branch (git push origin feature-branch)
 Create a new Pull Request
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
