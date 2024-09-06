@@ -37,7 +37,7 @@ Install the required packages, including React, TypeScript, and Shopify Polaris:
 bash
 Copy code
 npm install
-# or
+ or
 yarn install
 Step 3: Start the development server
 Start the local development server:
@@ -45,7 +45,7 @@ Start the local development server:
 bash
 Copy code
 npm start
-# or
+ or
 yarn start
 This will open the app in your default browser at http://localhost:3000.
 
