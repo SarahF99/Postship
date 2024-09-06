@@ -27,7 +27,7 @@ npm or yarn
 Step 1: Clone the repository
 bash
 Copy code
-git clone https://github.com/your-username/polaris-dashboard.git
+git clone https://github.com/SarahF99/polaris-dashboard.git
 cd polaris-dashboard
 Step 2: Install dependencies
 Install the required packages, including React, TypeScript, and Shopify Polaris:
